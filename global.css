@@ -50,17 +50,14 @@ sup {
   background: #0000ff!important;
   color: white!important;
 }
-highlight{
+/*highlight{
   background: #0000ff!important;
   color: white!important;  
 }
 highlight:hover{
   background: purple!important;
-}
+}*/
 h1{
-  /*font-size: 162%;
-  line-height: 140%;
-  font-weight: 400;*/
   font-weight: 400;
   font-size: inherit;
   line-height: inherit; 
