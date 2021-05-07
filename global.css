@@ -16,10 +16,8 @@ body,html{
 
 /*Mobile*/
 @media (max-width: 900px) {
-  body{
-    margin: 1rem;
-  }
   .wrapper{
+    padding: 1rem;
     width: 100%;
   }
 }
