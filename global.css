@@ -14,11 +14,11 @@ body,html{
 
 /*Pages*/
 .page_left{
-  float: left;
+  /*float: left;*/
   width: 50%;
 }
 .page_right{
-  float: left;
+  /*float: left;*/
   width: 50%;
   border-left: 0px solid #0000ff;
   min-height: 100%;
