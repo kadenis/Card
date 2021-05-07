@@ -42,7 +42,9 @@ h1 a{
 a:hover > span{
   text-decoration: underline;
 }
-sup { vertical-align: top; font-size: 0.6em; }
+sup { 
+  vertical-align: top; font-size: 0.6em; 
+}
 ::selection{
   background: #0000ff!important;
   color: white!important;
@@ -73,9 +75,6 @@ h2{
   padding: 0;
   margin: 0;
   font-weight: 400;
-}
-thumbnail{
-  font-size: 200%
 }
 label{
   display: inline-block;
