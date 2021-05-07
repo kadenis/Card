@@ -15,7 +15,7 @@ body,html{
 }
 
 /*Mobile*/
-@media (max-width: 700px) {
+@media (max-width: 600px) {
   .wrapper{
     margin: 1rem;
   }
