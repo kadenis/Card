@@ -35,9 +35,6 @@ h1 a{
 .no_underline:hover{
   text-decoration: none;
 }
-a:hover > span{
-  text-decoration: underline;
-}
 sup { 
   vertical-align: top; font-size: 0.6em; 
 }
@@ -49,13 +46,6 @@ sup {
   background: #000000!important;
   color: white!important;
 }
-/*highlight{
-  background: #0000ff!important;
-  color: white!important;  
-}
-highlight:hover{
-  background: purple!important;
-}*/
 h1{
   font-weight: 400;
   font-size: inherit;
