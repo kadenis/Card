@@ -11,11 +11,11 @@ body,html{
 }
 .wrapper{
   margin: 2rem;
-  max-width: 32rem;
+  max-width: 34rem;
 }
 
 /*Mobile*/
-@media (max-width: 32rem) {
+@media (max-width: 34rem) {
   .wrapper{
     margin: 1rem;
   }
