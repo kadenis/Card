@@ -50,6 +50,7 @@ body,html{
 @media (max-width: 900px) {
   body{
     margin: 1rem;
+    width: 100%;
   }
   .page_left,.page_right{
     position: static;
