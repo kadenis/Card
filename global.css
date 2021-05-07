@@ -21,6 +21,9 @@ body,html{
 }
 
 /*Elements*/
+b{
+  font-weight: 600!important;
+}
 a{
   text-decoration: none; 
   color: #000000;
