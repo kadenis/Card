@@ -29,8 +29,9 @@ a{
   color: #000000;
 }
 a:hover{
-  opacity: 0.5;
+  /*opacity: 0.5;*/
   transition: 0.2s all linear;
+  background: black;
 }
 h1 a{
   text-decoration: underline;
