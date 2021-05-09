@@ -33,7 +33,6 @@ a:hover{
   background: #000000;
   color: #ffffff;
   transition: 0.16s all linear;
-  border-radius: 1px!important;
 }
 h1 a{
   text-decoration: underline;
