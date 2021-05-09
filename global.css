@@ -30,9 +30,10 @@ a{
 }
 a:hover{
   /*opacity: 0.5;*/
-  color: #0000FF;
+  background: #000000;
+  color: #ffffff;
   transition: 0.16s all linear;
-  border-radius: 2px!important;
+  border-radius: 1px!important;
 }
 h1 a{
   text-decoration: underline;
@@ -41,12 +42,12 @@ h1 a{
   text-decoration: none;
 }
 ::selection{
-  background: #000000!important;
+  background: #0000FF!important;
   color: white!important;
   transition: 0.16s all linear;
 }
 ::-moz-selection {
-  background: #000000!important;
+  background: #0000FF!important;
   color: white!important;
   transition: 0.16s all linear;
 }
