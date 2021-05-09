@@ -30,8 +30,10 @@ a{
 }
 a:hover{
   /*opacity: 0.5;*/
-  transition: 0.2s all linear;
-  background: black;
+  background: #000000;
+  color: #ffffff;
+  transition: 0.1s all linear;
+  border-radius: 5px!important;
 }
 h1 a{
   text-decoration: underline;
@@ -42,10 +44,12 @@ h1 a{
 ::selection{
   background: #000000!important;
   color: white!important;
+  transition: 0.1s all linear;
 }
 ::-moz-selection {
   background: #000000!important;
   color: white!important;
+  transition: 0.1s all linear;
 }
 h1{
   font-weight: 400;
