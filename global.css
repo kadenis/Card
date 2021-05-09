@@ -27,13 +27,13 @@ a{
   text-decoration: none; 
   color: inherit;
 }
-a:hover{
+a:hover, .highlight a{
   color: rgba(255, 255, 255, 1)!important;
 }
 .social a{
   color: #FF4242;
 }
-.social a:hover{
+.social a:hover, .highlight a{
   background: #FF4242;
   outline: 2px solid #FF4242;
 }
