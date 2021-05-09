@@ -33,7 +33,7 @@ a:hover, .highlight a{
 .social a{
   color: #FF4242;
 }
-.social a:hover, .highlight a{
+.social a:hover, .highlight{
   background: #FF4242;
   outline: 2px solid #FF4242;
 }
