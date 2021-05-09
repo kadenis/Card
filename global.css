@@ -27,7 +27,7 @@ a{
   text-decoration: none; 
   color: inherit;
 }
-a:hover, .highlight a{
+a:hover, .highlight{
   color: rgba(255, 255, 255, 1)!important;
 }
 .social a{
